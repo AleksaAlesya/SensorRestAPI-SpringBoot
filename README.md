@@ -1,7 +1,8 @@
 # SensorRestAPI-SpringBoot
 
-Проект SensorRestApi-SpringBoot
-Вторая часть задания - реализованый клиент -RestTemplateForSensor-java
+Проект SensorRestApi-SpringBoot.
+
+Вторая часть задания - реализованый клиент -RestTemplateForSensor-java (https://github.com/AleksaAlesya/RestTemplateForSensor-java)
 
 Стек технологий и фреймворков:
 SpringBoot, Postgresql, ModelMapper, starter-validator, starter-thymeleaf, starter-web, starter-data-jpa
