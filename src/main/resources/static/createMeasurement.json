@@ -1,0 +1,7 @@
+{
+  "temperatureValue": 15.5,
+  "raining": false,
+  "sensor": {
+    "name": "Sensor_1"
+  }
+}
